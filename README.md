@@ -9,4 +9,5 @@ Crypto predictor using MultilayerPerceptron\
 [Bitcoin Cash](https://www.investing.com/crypto/bitcoin-cash/bchabc-idr-historical-data)	1/11/2017 - 1/11/2019\
 [Bitcoin SV](https://www.investing.com/crypto/bitcoin-sv/bchsv-idr-historical-data)     	1/11/2017 - 1/11/2019\
 
-
+# Deploy model
+using pickled model from sklearn. There's error using json file from keras.
